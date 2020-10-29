@@ -8,10 +8,10 @@ This example is to show the different parts of the GIT repository and various co
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As state above, the main purpose is to provide simple examples for GitHub training.
 
 ## Deployment
 
-
+This is a simple web project, deployment that can be on any web server or local file system. 
 
 ## How to Contribute

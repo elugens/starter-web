@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. This is demo repo from t
 
 ## Introduction
 
-
+This example is to show the different parts of the GIT repository and various commands using a demo web project.
 
 ## Purpose
 

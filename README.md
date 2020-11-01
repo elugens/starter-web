@@ -1,6 +1,6 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work. This is demo repo from the GIT Complete course on Udemy.
+This repository is for showing how Git and GitHub work. This is demo repo from the GIT Complete course on Udemy. Adding a line for rebasing example
 
 ## Introduction
 
